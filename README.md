@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### Boas vindas ao meu perfil
+### Meu nome é Anderson e estou aprendendo no alura
+### Obrigado por ver meu perfil, valeu!
 <!--
 **Falldelas2842/falldelas2842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
